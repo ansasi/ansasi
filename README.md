@@ -1,12 +1,14 @@
-<h1 align="center">Hi, I'm Angel Sanchez Sierra 👋</h1>
+<h1 align="center">Hi, I'm Angel Sanchez 👋</h1>
 
-<h3 align="center">Cloud Data Engineer · Cloud Architect · Web Developer</h3>
+<h3 align="center">Cloud Engineer & Architect · Data · AI</h3>
 
 <p align="center">
-  I build reliable, cost-efficient data platforms on AWS — and the web apps on top of them.
+  I design, automate and run cloud infrastructure, data platforms and AI solutions. AWS is my main expertise, and I work just as well on other cloud providers or on-prem.<br />
+  Founder of <a href="https://datia.ch/">Datia</a>, a Swiss technology partner for Web, Cloud, Data &amp; AI.
 </p>
 
 <p align="center">
+  <a href="https://datia.ch/"><img src="https://img.shields.io/badge/Datia-1C1917?style=for-the-badge" alt="Datia" /></a>
   <a href="https://angelsanchez-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/angelsanchezsierra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:angel.sanchezsierra@pm.me"><img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
@@ -14,14 +16,30 @@
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 What I do
 
-- ☁️ **Cloud Data Engineer at [Alpiq](https://www.alpiq.com/)** (IT Data & Analytics), keeping business workloads highly available, resilient and cost-efficient on AWS with Terraform, GitLab CI/CD, Docker and Kubernetes (EKS).
-- 📦 Previously **Business Intelligence Engineer at Amazon** (EU HQ, Luxembourg), **Data Engineer at Accumin** and **Data Scientist at CIC Lab**, where a predictive-maintenance model I built cut production-line downtime by 7%.
-- 🎓 Double master's degree in **Industrial Engineering** and **Smart Industry**.
-- 🏆 **AWS Certified Solutions Architect**, **AWS Certified Cloud Practitioner**, and winner of the **IV Hackathon** (Prosegur × ICAI).
-- 🏠 I run a self-hosted **HomeLab** and spend my spare time on AI-assisted tooling and side projects.
-- 💬 Open to freelance work. *Good quality means good business.*
+- ☁️ **Cloud architecture:** secure, resilient and cost-efficient infrastructure. I go deepest on AWS, and the same principles carry over to other clouds, hybrid setups and on-prem.
+- 🏗️ **Infrastructure as Code & automation:** Terraform, CI/CD pipelines and repeatable environments, so nothing depends on manual clicks.
+- 🐳 **Containers & orchestration:** Docker and Kubernetes, from managed clusters to self-hosted servers.
+- 📊 **Data engineering:** ETL pipelines, data models and analytics platforms with Python, Spark and SQL.
+- 🤖 **AI:** assistants that answer from your own documents, agents that automate routine workflow steps, and running AI in production with quality and cost monitoring.
+- 🌐 **Web development:** full-stack apps with React, Next.js and Astro.
+- 🏠 **HomeLab:** my own on-prem playground, where I self-host services and try ideas before they reach production.
+
+💬 Ask me about cloud architecture, Terraform, Kubernetes, AI agents or self-hosting.
+
+## 🏢 Datia
+
+[**Datia**](https://datia.ch/) is the company I founded: an independent engineering team based in Switzerland, working with clients across Europe. Datia builds your website and connects it to the cloud, your data and AI, so every part of your business works together. No hand-offs: you work directly with the engineer who does the work.
+
+| | Service | What it covers |
+| --- | --- | --- |
+| 🌐 | **[Web](https://datia.ch/en/services/web/)** | Websites and web apps, hosting & maintenance, SEO & performance, brand & design |
+| ☁️ | **[Cloud](https://datia.ch/en/services/cloud/)** | Cloud migration, managed operations, security & backups, DevOps & CI/CD |
+| 📊 | **[Data](https://datia.ch/en/services/data/)** | Data architecture and engineering, analytics & dashboards, data quality & governance |
+| 🤖 | **[AI](https://datia.ch/en/services/ai/)** | AI strategy & prototyping, AI agents & automations, MLOps & monitoring, EU AI Act compliance |
+
+Need help with a project? [Book a free consultation](https://datia.ch/en/contact/) or see the [website demos](https://datia.ch/en/services/web/#work).
 
 ## 🛠️ Tech stack
 
@@ -37,27 +55,39 @@
   <img src="https://skillicons.dev/icons?i=py,postgres,django,r,cpp&perline=10" alt="Python, PostgreSQL/SQL, Django, R, C++" />
 </p>
 
+**AI & agentic coding**
+
+<p>
+  <img src="assets/ai-stack.svg" alt="OpenAI, Claude, DeepSeek, Grok, Hugging Face, Ollama, Amazon SageMaker, Jupyter, Claude Code, OpenCode" />
+</p>
+
 **Web**
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,sass,html,css,firebase&perline=10" alt="JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS, Sass, HTML, CSS, Firebase" />
 </p>
 
-## 🚀 Featured projects
+## 🚀 Projects
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| **[SheetGenius AI](https://sheetgenius.vercel.app/)** | Generates Excel formulas from plain-language descriptions. | Next.js · React · Stripe · AI |
-| **[Forge – Fitness App](https://github.com/ansasi/fitness-app)** · [live](https://forge.datia.ch/en/) | Exercise library with 873 exercises, filterable by muscle, equipment and level. | Astro · React 19 · TypeScript · Tailwind |
-| **[Docker HomeLab](https://github.com/ansasi/docker_containers)** | The Docker Compose stacks behind my self-hosted HomeLab, linted in CI on every push. | Docker · Compose · CI |
-| **[Terraform AWS Modules](https://github.com/ansasi/terraform-aws-modules)** | Reusable Terraform modules for provisioning AWS infrastructure. | Terraform · AWS · IaC |
-| **[Connected](https://github.com/ansasi/connected-social-media)** · [live](https://connected-app.netlify.app/) | Pinterest-style app to post, save and comment on pictures. | React · Sanity · Google Auth |
-| **[Portfolio](https://github.com/ansasi/portfolio)** · [live](https://angelsanchez-portfolio.vercel.app/) | My personal portfolio site. | React · Vite · Sass |
+**🏢 Built at Datia** · the code is private, so the links go to the live sites
+
+- **[datia.ch](https://datia.ch/):** the company site, in four languages, with an AI assistant that answers from the site's own content (RAG on Cloudflare AI Search, Gemma 4 on Workers AI, streamed replies with a fallback model). Astro, React, Tailwind, Cloudflare Workers.
+- **[ai.datia.ch](https://ai.datia.ch/):** landing site for Datia's AI agents (a website support agent, a business-management "AI employee" and n8n automations), with its own chat assistant and EUR/CHF pricing based on the visitor's location.
+- **[Spanish Founders House](https://spanish-founders.datia.ch/):** bilingual site for a startup fund, with an interactive three.js globe, a 3D model of the San Francisco hub and a scroll-driven motion system (GSAP, Lenis) that still works without JavaScript or WebGL.
+- **[The Filtered Funds](https://thefilteredfunds.com/):** site for an equity index; performance figures and the factsheet are computed in the browser from CSV data the client edits through a CMS.
+- **Website demos:** [Alpgate Ventures](https://demo-startup.datia.ch/) · [Praxis Seefeld](https://demo-doctor.datia.ch/) · [Physio Seefeld](https://demo-physio.datia.ch/) · [Core Construcciones](https://core-demo.datia.ch/)
+
+**☁️ Cloud & infrastructure** · open source
+
+- **[docker_containers](https://github.com/ansasi/docker_containers):** Docker Compose stacks for my self-hosted HomeLab, with every file linted in CI.
+- **[terraform-aws-modules](https://github.com/ansasi/terraform-aws-modules):** reusable Terraform modules for provisioning cloud infrastructure.
+
+**🌐 Web** · open source
+
+- **[fitness-app](https://github.com/ansasi/fitness-app):** Forge, an exercise library with 873 exercises filterable by muscle, equipment and level ([live](https://forge.datia.ch/en/)).
+- **[connected-social-media](https://github.com/ansasi/connected-social-media):** a Pinterest-style app to post, save and comment on pictures ([live](https://connected-app.netlify.app/)).
+- **[portfolio](https://github.com/ansasi/portfolio):** my personal portfolio site ([live](https://angelsanchez-portfolio.vercel.app/)).
 
 ## 📫 Let's connect
 
-I'm always happy to talk about cloud architecture, data engineering or a new project. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/angelsanchezsierra/) or by [email](mailto:angel.sanchezsierra@pm.me). Or grab a coffee and chat ☕
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansasi&color=0A66C2&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
+Want to talk cloud, data, AI or a new project? Reach me on [LinkedIn](https://www.linkedin.com/in/angelsanchezsierra/) or by [email](mailto:angel.sanchezsierra@pm.me). For company projects, contact [Datia](https://datia.ch/en/contact/).
