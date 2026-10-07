@@ -69,12 +69,20 @@ Need help with a project? [Book a free consultation](https://datia.ch/en/contact
 
 ## 🚀 Projects
 
-**☁️ Cloud & infrastructure**
+**🏢 Built at Datia** · the code is private, so the links go to the live sites
+
+- **[datia.ch](https://datia.ch/):** the company site, in four languages, with an AI assistant that answers from the site's own content (RAG on Cloudflare AI Search, Gemma 4 on Workers AI, streamed replies with a fallback model). Astro, React, Tailwind, Cloudflare Workers.
+- **[ai.datia.ch](https://ai.datia.ch/):** landing site for Datia's AI agents (a website support agent, a business-management "AI employee" and n8n automations), with its own chat assistant and EUR/CHF pricing based on the visitor's location.
+- **[Spanish Founders House](https://spanish-founders.datia.ch/):** bilingual site for a startup fund, with an interactive three.js globe, a 3D model of the San Francisco hub and a scroll-driven motion system (GSAP, Lenis) that still works without JavaScript or WebGL.
+- **[The Filtered Funds](https://thefilteredfunds.com/):** site for an equity index; performance figures and the factsheet are computed in the browser from CSV data the client edits through a CMS.
+- **Website demos:** [Alpgate Ventures](https://demo-startup.datia.ch/) · [Praxis Seefeld](https://demo-doctor.datia.ch/) · [Physio Seefeld](https://demo-physio.datia.ch/) · [Core Construcciones](https://core-demo.datia.ch/)
+
+**☁️ Cloud & infrastructure** · open source
 
 - **[docker_containers](https://github.com/ansasi/docker_containers):** Docker Compose stacks for my self-hosted HomeLab, with every file linted in CI.
 - **[terraform-aws-modules](https://github.com/ansasi/terraform-aws-modules):** reusable Terraform modules for provisioning cloud infrastructure.
 
-**🌐 Web**
+**🌐 Web** · open source
 
 - **[fitness-app](https://github.com/ansasi/fitness-app):** Forge, an exercise library with 873 exercises filterable by muscle, equipment and level ([live](https://forge.datia.ch/en/)).
 - **[connected-social-media](https://github.com/ansasi/connected-social-media):** a Pinterest-style app to post, save and comment on pictures ([live](https://connected-app.netlify.app/)).
