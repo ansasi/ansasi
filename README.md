@@ -61,7 +61,3 @@
 ## 📫 Let's connect
 
 Want to talk cloud, data or a new project? Reach me on [LinkedIn](https://www.linkedin.com/in/angelsanchezsierra/) or by [email](mailto:angel.sanchezsierra@pm.me).
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansasi&color=0A66C2&style=flat-square&label=Profile+views" alt="Profile views" />
-</p>
