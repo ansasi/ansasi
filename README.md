@@ -55,6 +55,13 @@ Need help with a project? [Book a free consultation](https://datia.ch/en/contact
   <img src="https://skillicons.dev/icons?i=py,postgres,django,r,cpp&perline=10" alt="Python, PostgreSQL/SQL, Django, R, C++" />
 </p>
 
+**AI & agentic coding**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode" />
+</p>
+
 **Web**
 
 <p>
