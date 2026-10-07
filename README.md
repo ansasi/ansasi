@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Angel Sanchez 👋</h1>
 
-<h3 align="center">Cloud · Data · Web · AI</h3>
+<h3 align="center">Cloud, Data &amp; AI Engineer</h3>
 
 <p align="center">
-  I design, automate and run cloud infrastructure, data platforms and AI solutions. My solutions scale from on-premise, with virtualization and containers, to cloud with full kubernetes clusters.<br />
+  I design, automate and run cloud infrastructure, data platforms and AI solutions, from virtualized on-prem servers to full Kubernetes clusters on AWS and other clouds.<br />
   Founder of <a href="https://datia.ch/">Datia</a>, a Swiss technology partner for Web, Cloud, Data &amp; AI.
 </p>
 
@@ -18,13 +18,13 @@
 
 ## 🧑‍💻 What I do
 
-- ☁️ **Cloud architecture:** secure, resilient and cost-efficient infrastructure. I personally have a hybrid deployment, with private workloads and files on-premise, and public apps and encrypted backups in the cloud.
-- 🏗️ **Infrastructure as Code & automation:** Terraform, Ansible, CI/CD pipelines and repeatable environments. I got tired of manual deployments long time ago, and since then the number of incidents has decreased exponentially.
-- 🐳 **Containers & orchestration:** Docker and Kubernetes, from managed clusters in the cloud to self-hosted servers on-premise.
+- ☁️ **Cloud architecture:** secure, resilient and cost-efficient infrastructure. I run a hybrid deployment myself: private workloads and files on-prem, public apps and encrypted backups in the cloud.
+- 🏗️ **Infrastructure as Code & automation:** Terraform, Ansible, CI/CD pipelines and repeatable environments. I left manual deployments behind a long time ago, and incidents have dropped sharply since.
+- 🐳 **Containers & orchestration:** Docker and Kubernetes, from managed clusters in the cloud to self-hosted servers on-prem.
 - 📊 **Data engineering:** ETL pipelines, data models and analytics platforms with Python, Spark and SQL.
 - 🤖 **AI:** assistants that answer from your own documents, agents that automate routine workflow steps, and running AI in production with quality and cost monitoring.
-- 🌐 **Web development:** full-stack apps with React, Next.js and Astro, designed for performance and deployed in Cloudflare, AWS or Vercel best optimization.
-- 🏠 **HomeLab:** my own on-premise playground, where I self-host services and try ideas before they reach production. If I can have my own kubernetes at home, you can have it too.
+- 🌐 **Web development:** full-stack apps with React, Next.js and Astro, built for performance and deployed on Cloudflare, AWS or Vercel to match each project's requirements.
+- 🏠 **HomeLab:** my own on-prem playground, where I self-host services and try ideas before they reach production. If I can have my own Kubernetes at home, you can have it too.
 
 ## 🏢 Datia
 
@@ -37,14 +37,14 @@
 | 📊 | **[Data](https://datia.ch/en/services/data/)** | Data architecture and engineering, analytics & dashboards, data quality & governance |
 | 🤖 | **[AI](https://datia.ch/en/services/ai/)** | AI strategy & prototyping, AI agents & automations, MLOps & monitoring, EU AI Act compliance |
 
-Need help with a project? [Book a free consultation](https://datia.ch/en/contact/)
+Need help with a project? [Book a free consultation](https://datia.ch/en/contact/).
 
 ## 🛠️ Tech stack
 
 **Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,gitlab,linux&perline=10" alt="AWS, Terraform, Docker, Kubernetes, GitLab, Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,gitlab,linux,cloudflare,vercel&perline=10" alt="AWS, Terraform, Ansible, Docker, Kubernetes, GitLab, Linux, Cloudflare, Vercel" /><img src="assets/renovate.svg" alt="Renovate" />
 </p>
 
 **Data & Backend**
@@ -69,14 +69,15 @@ Need help with a project? [Book a free consultation](https://datia.ch/en/contact
 
 **🏢 Built at Datia**
 
-- **[datia.ch](https://datia.ch/):** the company site, in four languages, with an AI assistant that answers from the site's own content. Using Astro framework and deployed in Cloudflare for best performance and security.
+- **[datia.ch](https://datia.ch/):** the company site, in four languages, with an AI assistant that answers from the site's own content. Built with Astro and deployed on Cloudflare for speed and security.
 - **Website demos:** [Alpgate Ventures](https://demo-startup.datia.ch/) · [Praxis Seefeld](https://demo-doctor.datia.ch/) · [Physio Seefeld](https://demo-physio.datia.ch/)
 
-**☁️ Built for my Homelab** · open source
+**☁️ Built for my HomeLab** · open source
 
 - **[docker_containers](https://github.com/ansasi/docker_containers):** Docker Compose stacks for my self-hosted HomeLab, with every file linted in CI.
-- **[homelab](https://github.com/ansasi/homelab):** Homelab repository with all configuration of my ansible playbooks, kubernetes, gitops and docker deployments. *Note: It is still not public, it will be release in the future*
+- **[renovate-config](https://github.com/ansasi/renovate-config):** shared Renovate presets that keep all my repositories up to date: automerge for safe updates, a stricter policy for database images, and support for Kubernetes, Argo CD and Flux manifests.
+- **homelab:** the full configuration of my HomeLab: Ansible playbooks, Kubernetes, GitOps and Docker deployments. *Not public yet, coming soon.*
 
 ## 📫 Let's connect
 
-Want to talk or share something? Reach me on [LinkedIn](https://www.linkedin.com/in/angelsanchezsierra/) or by [email](mailto:angel.sanchezsierra@pm.me). For company projects, contact sent an email to [contact@datia.ch](mailto:contact@datia.ch).
+Want to talk or share something? Reach me on [LinkedIn](https://www.linkedin.com/in/angelsanchezsierra/) or by [email](mailto:angel.sanchezsierra@pm.me). For company projects, email [contact@datia.ch](mailto:contact@datia.ch) or use the [Datia contact form](https://datia.ch/en/contact/).
