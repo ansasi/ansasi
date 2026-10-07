@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Angel Sanchez Sierra 👋</h1>
+<h1 align="center">Hi, I'm Angel Sanchez 👋</h1>
 
-<h3 align="center">Cloud Data Engineer · Cloud Architect · Web Developer</h3>
+<h3 align="center">Cloud Engineer & Architect · Data · DevOps</h3>
 
 <p align="center">
-  I build reliable, cost-efficient data platforms on AWS — and the web apps on top of them.
+  I design, automate and run cloud infrastructure and data platforms. AWS is my main expertise, and I work just as well on other cloud providers or on-prem.
 </p>
 
 <p align="center">
@@ -14,14 +14,16 @@
 
 ---
 
-## 🧑‍💻 About me
+## 🧑‍💻 What I do
 
-- ☁️ **Cloud Data Engineer at [Alpiq](https://www.alpiq.com/)** (IT Data & Analytics), keeping business workloads highly available, resilient and cost-efficient on AWS with Terraform, GitLab CI/CD, Docker and Kubernetes (EKS).
-- 📦 Previously **Business Intelligence Engineer at Amazon** (EU HQ, Luxembourg), **Data Engineer at Accumin** and **Data Scientist at CIC Lab**, where a predictive-maintenance model I built cut production-line downtime by 7%.
-- 🎓 Double master's degree in **Industrial Engineering** and **Smart Industry**.
-- 🏆 **AWS Certified Solutions Architect**, **AWS Certified Cloud Practitioner**, and winner of the **IV Hackathon** (Prosegur × ICAI).
-- 🏠 I run a self-hosted **HomeLab** and spend my spare time on AI-assisted tooling and side projects.
-- 💬 Open to freelance work. *Good quality means good business.*
+- ☁️ **Cloud architecture:** secure, resilient and cost-efficient infrastructure. I go deepest on AWS, and the same principles carry over to other clouds, hybrid setups and on-prem.
+- 🏗️ **Infrastructure as Code & automation:** Terraform, CI/CD pipelines and repeatable environments, so nothing depends on manual clicks.
+- 🐳 **Containers & orchestration:** Docker and Kubernetes, from managed clusters to self-hosted servers.
+- 📊 **Data engineering:** ETL pipelines, data models and analytics platforms with Python, Spark and SQL.
+- 🌐 **Web development:** full-stack apps with React, Next.js and Astro.
+- 🏠 **HomeLab:** my own on-prem playground, where I self-host services and try ideas before they reach production.
+
+💬 Ask me about cloud architecture, Terraform, Kubernetes or self-hosting. I'm open to freelance projects.
 
 ## 🛠️ Tech stack
 
@@ -43,20 +45,22 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,sass,html,css,firebase&perline=10" alt="JavaScript, TypeScript, React, Next.js, Astro, Tailwind CSS, Sass, HTML, CSS, Firebase" />
 </p>
 
-## 🚀 Featured projects
+## 🚀 Projects
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| **[SheetGenius AI](https://sheetgenius.vercel.app/)** | Generates Excel formulas from plain-language descriptions. | Next.js · React · Stripe · AI |
-| **[Forge – Fitness App](https://github.com/ansasi/fitness-app)** · [live](https://forge.datia.ch/en/) | Exercise library with 873 exercises, filterable by muscle, equipment and level. | Astro · React 19 · TypeScript · Tailwind |
-| **[Docker HomeLab](https://github.com/ansasi/docker_containers)** | The Docker Compose stacks behind my self-hosted HomeLab, linted in CI on every push. | Docker · Compose · CI |
-| **[Terraform AWS Modules](https://github.com/ansasi/terraform-aws-modules)** | Reusable Terraform modules for provisioning AWS infrastructure. | Terraform · AWS · IaC |
-| **[Connected](https://github.com/ansasi/connected-social-media)** · [live](https://connected-app.netlify.app/) | Pinterest-style app to post, save and comment on pictures. | React · Sanity · Google Auth |
-| **[Portfolio](https://github.com/ansasi/portfolio)** · [live](https://angelsanchez-portfolio.vercel.app/) | My personal portfolio site. | React · Vite · Sass |
+**☁️ Cloud & infrastructure**
+
+- **[docker_containers](https://github.com/ansasi/docker_containers):** Docker Compose stacks for my self-hosted HomeLab, with every file linted in CI.
+- **[terraform-aws-modules](https://github.com/ansasi/terraform-aws-modules):** reusable Terraform modules for provisioning cloud infrastructure.
+
+**🌐 Web**
+
+- **[fitness-app](https://github.com/ansasi/fitness-app):** Forge, an exercise library with 873 exercises filterable by muscle, equipment and level ([live](https://forge.datia.ch/en/)).
+- **[connected-social-media](https://github.com/ansasi/connected-social-media):** a Pinterest-style app to post, save and comment on pictures ([live](https://connected-app.netlify.app/)).
+- **[portfolio](https://github.com/ansasi/portfolio):** my personal portfolio site ([live](https://angelsanchez-portfolio.vercel.app/)).
 
 ## 📫 Let's connect
 
-I'm always happy to talk about cloud architecture, data engineering or a new project. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/angelsanchezsierra/) or by [email](mailto:angel.sanchezsierra@pm.me). Or grab a coffee and chat ☕
+Want to talk cloud, data or a new project? Reach me on [LinkedIn](https://www.linkedin.com/in/angelsanchezsierra/) or by [email](mailto:angel.sanchezsierra@pm.me).
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ansasi&color=0A66C2&style=flat-square&label=Profile+views" alt="Profile views" />
